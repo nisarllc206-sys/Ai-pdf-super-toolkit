@@ -8,9 +8,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎
 ‎It's a great option for businesses and creators looking to build and grow their online presence. ¹
 ‎
-‎Want to know more about Nexus Ultra Platforms' features or how to get started?
-‎‎سافٹ ویئر کی دنیا میں ایک عجیب مگر طاقتور اصول ہے: اچھی repository کی آدھی طاقت اس کے README اور prompt میں ہوتی ہے۔ جب GitHub پر کوئی developer آتا ہے تو وہ پہلے کوڈ نہیں، بلکہ پروجیکٹ کی کہانی اور structure دیکھتا ہے۔ اگر وہ واضح اور طاقتور ہو تو لوگ فوراً project کو star ⭐ اور fork کرتے ہیں۔
-‎تمہاری ایپ AI PDF Super Toolkit ہے، اس لیے GitHub کیلئے ایک Master Prompt + Repository README blueprint بناتے ہیں۔ یہ وہ متن ہے جو تم GitHub پر رکھ سکتے ہو تاکہ AI یا developers دونوں پورا project سمجھ سکیں۔
+‎ 
 ‎GitHub Master Prompt + README
 ‎Project: AI PDF Super Toolkit
 ‎Writing
