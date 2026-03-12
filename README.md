@@ -1,6 +1,6 @@
 https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offers a range of features for creating and managing websites. It's built with modern technologies like Flutter Web, Firebase, and Clean Architecture, ensuring a scalable and maintainable solution.
 ‎
-‎Some key features of Nexus Ultra Platforms include
+ Platforms include
 ‎Drag-and-drop builderCreate stunning websites without coding
 ‎Full-stack capabilitiesDesign, develop, and deploy with ease
 ‎-Group website managementHandle multiple sites and teams seamlessly
@@ -297,9 +297,9 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎
 ‎50+ tools including PDF editing, OCR, AI image generation,
 ‎video converters, QR tools, and file management.
-‎
+
 ‎Include:
-‎
+
 ‎AndroidManifest
 ‎Gradle build files
 ‎all Kotlin classes
@@ -542,7 +542,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎playstore-banner.png
 ‎instagram-ad.png
 ‎youtube-thumbnail.png
-‎All Your Smart Tools in One All Your Smart Tools in One AppAppwebsite-hero-image.png}</All AI
+‎All Your Smart Tools in One All Your Smart Tools in One Appwebsite-hero-image.png}</All AI
 ‎   inside circuit brain
 ‎        ↓
 ‎PDF page shape
