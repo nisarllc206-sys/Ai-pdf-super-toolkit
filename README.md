@@ -982,4 +982,19 @@ I will upload a PDF. Convert it into a complete study package.
 9. Generate a presentation outline with 6–8 slides and key bullet points for each slide.
 
 Organize everything clearly with headings, bullet points, and tables when needed.
-Explain difficult ideas in simple language suitable for students.
+Explain difficult ideas in simple language suitable for students.You are my AI Knowledge Web Builder.
+
+I will give you a PDF, article, or note.
+
+Your job is to convert the information into a connected knowledge system.
+
+1. Give a short summary of the content.
+2. Extract the main ideas and key concepts.
+3. Turn each idea into a clear note.
+4. For every new note, connect it with at least two related ideas or concepts.
+5. Explain how those ideas are related.
+6. Build a simple text-based knowledge web showing the connections.
+7. Suggest new questions or ideas that come from these connections.
+8. Store the most powerful insights in an “Idea Vault”.
+
+Organize everything clearly with headings and bullet points so the knowledge can grow over time.
