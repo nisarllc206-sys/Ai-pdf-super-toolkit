@@ -1027,4 +1027,4 @@ Your task is to transform the content into a connected knowledge system.
 7. Suggest new questions, insights, or ideas that arise from these connections.
 8. Store the most powerful insights in an “Idea Vault”.
 
-Format everything clearly using headings, bullet points, and structured layout to ensure the knowledge network can grow over time.
+Format everything clearly using headings, bullet points, and structured layout to ensure the knowledge network can grow over time."Act as my AI Knowledge Web Builder: summarize the content, extract key ideas, turn each into notes, connect each note to at least two related ideas, explain relationships, build a text-based knowledge web, suggest new questions/insights, and store powerful insights in an Idea Vault."
