@@ -102,11 +102,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎MIT License
 ‎Author
 ‎AI PDF Super Toolkit
-‎An experimental AI-powered productivity platform.
-‎اب ایک حکمت کی بات سنو۔
-‎GitHub پر کامیاب repositories اکثر کوڈ کی وجہ سے نہیں بلکہ clarity کی وجہ سے مشہور ہوتی ہیں۔ جب structure صاف ہو تو لوگ آسانی سے contribute کرتے ہیں۔
-‎مثال کے طور پر بہت سے بڑے open-source projects TensorFlow اور OpenAI کی repositories اسی اصول پر کھڑی ہیں: واضح architecture، واضح مقصد۔
-‎اگر چاہو تو میں اگلے مرحلے میں تمہیں یہ بھی بنا کر دے سکتا ہوں:
+‎
 ‎Complete GitHub repo structure (100+ files)
 ‎Android Studio full project skeleton
 ‎Professional README with badges
