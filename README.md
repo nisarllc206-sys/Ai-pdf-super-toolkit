@@ -111,8 +111,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎Android Studio full project skeleton
 ‎Professional README with badges
 ‎GitHub star attracting landing page
-‎Auto code generation prompt (200,000 lines project)
-‎اور پھر تمہاری ایپ واقعی ایک startup-level AI ai-pdf-super-toolkit/
+‎Auto code generation prompt (200,000 lines projectproject ai-pdf-super-toolkit/
 ‎│
 ‎├── README.md
 ‎├── LICENSE
