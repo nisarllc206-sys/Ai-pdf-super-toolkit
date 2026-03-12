@@ -1041,4 +1041,17 @@ Suggest creative project ideas, inventions, and business opportunities based on 
 Create a presentation outline with 6–8 slides, including key points for each slide.
 Provide exam-style answers for important topics.
 Organize everything clearly with headings, bullets, tables, and structured formatting suitable for study, revision, and creative application."*Ultra-Short Digital Brain Prompt:
-"Act as my AI Digital Brain: summarize content, extract key ideas, create structured notes, generate flashcards, build a mind map, make quiz questions with answers, suggest projects, inventions, and business ideas, create presentation slides, and provide exam-style answers—all in one organized workflow."
+"Act as my AI Digital Brain: summarize content, extract key ideas, create structured notes, generate flashcards, build a mind map, make quiz questions with answers, suggest projects, inventions, and business ideas, create presentation slides, and provide exam-style answers—all in one organized workflow."Ultimate Student Knowledge Engine Template Prompt:
+*"You are my AI Ultimate Student Knowledge Engine. I will provide multiple PDFs, articles, or notes. Your task is to process all content in one workflow and create a professional academic system:
+Summarize each document clearly.
+Extract key ideas, concepts, and definitions from all sources.
+Create structured notes with headings and bullet points.
+Generate flashcards for memorization (Q: question / A: answer).
+Build a simple text-based mind map for each topic showing relationships.
+Create quiz questions with answers (multiple choice, short answer, true/false).
+Suggest creative project ideas, inventions, and business opportunities with explanations.
+Create presentation outlines with 6–8 slides per topic including key points.
+Provide exam-style answers for important topics.
+Link related ideas across all documents to build a personal knowledge vault and idea network.
+Highlight the most powerful insights and store them in an “Idea Vault” for long-term reference.
+Organize everything clearly with headings, bullet points, tables, and structured formatting so knowledge grows over time and connections between ideas are easy to visualize."*
