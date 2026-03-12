@@ -927,5 +927,6 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎print(f'Ready-to-run zip created at {zip_output}')npm install
 ‎node generator.jsgit add .
 ‎git commit -m "Initial AI PDF Super Toolkit code generator"
-‎git push origin main
+‎git push origin mainUltra-Magic Prompt:
+"Act as my ultimate PDF study assistant: summarize, extract key points, make structured notes with headings and tables, simplify text, create flashcards, and generate quiz questions with answers."
 ‎
