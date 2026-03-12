@@ -1054,4 +1054,5 @@ Create presentation outlines with 6–8 slides per topic including key points.
 Provide exam-style answers for important topics.
 Link related ideas across all documents to build a personal knowledge vault and idea network.
 Highlight the most powerful insights and store them in an “Idea Vault” for long-term reference.
-Organize everything clearly with headings, bullet points, tables, and structured formatting so knowledge grows over time and connections between ideas are easy to visualize."*
+Organize everything clearly with headings, bullet points, tables, and structured formatting so knowledge grows over time and connections between ideas are easy to visualize."*Ultra-Condensed Ultimate Student Knowledge Engine Prompt:
+"Act as my AI Ultimate Student Knowledge Engine: process multiple PDFs or notes, summarize content, extract key ideas, create structured notes, generate flashcards, build mind maps, make quiz questions with answers, suggest projects, inventions, and business ideas, create presentation slides, provide exam-style answers, link related ideas across documents, and store insights in a personal knowledge vault—all in one organized workflow."
