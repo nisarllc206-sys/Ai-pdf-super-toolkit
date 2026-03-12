@@ -936,4 +936,18 @@ I will upload a PDF. Analyze it deeply and create a research package.
 8. Provide a short critical analysis (strengths, weaknesses, and important insights).
 
 Organize everything with headings, bullet points, and clear explanations.
+Make it suitable for students and research learning.You are my AI Research Assistant.
+
+I will upload a PDF. Analyze it deeply and create a research package.
+
+1. Give a clear summary of the document.
+2. Explain the main concepts in deeper detail.
+3. Identify important themes, arguments, or ideas.
+4. Suggest additional topics or references related to the content.
+5. Generate possible research questions based on the PDF.
+6. Suggest project or assignment ideas related to the topic.
+7. Identify key terms and explain them in simple language.
+8. Provide a short critical analysis (strengths, weaknesses, and important insights).
+
+Organize everything with headings, bullet points, and clear explanations.
 Make it suitable for students and research learning.
