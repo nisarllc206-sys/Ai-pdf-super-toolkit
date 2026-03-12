@@ -13,7 +13,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎Project: AI PDF Super Toolkit
 ‎Writing
 ‎AI PDF Super Toolkit
-‎🚀 A modern all-in-one Android application combining PDF tools, AI utilities, media converters, and file management in a single powerful toolkit.
+‎A modern all-in-one Android application combining PDF tools, AI utilities, media converters, and file management in a single powerful toolkit.
 ‎This project demonstrates how to build a scalable AI productivity platform using modern Android architecture.
 ‎Vision
 ‎Create a single mobile application that replaces multiple productivity apps.
@@ -746,7 +746,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎animated glow
 ‎dark AI backgroundButton14–16pxdashboard۔ "50+ Smart Tools"
 ‎illustration
-‎next button🚀PDF + AI + Media toolsSign Up Screen
+‎next buttonPDF + AI + Media toolsSign Up Screen
 ‎7. Forgot Password
 ‎8. Loading Screen
 ‎9. Permissions Screen
@@ -787,7 +787,7 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎02 Components
 ‎03 Navigation
 ‎04 Screens
-‎05 Prototypes<?xml version="1.0" encoding="utf-8"?>
+‎05 Prototypes<xml version="1.0" encoding="utf-8">
 ‎
 ‎<androidx.coordinatorlayout.widget.CoordinatorLayout
 ‎    xmlns:android="http://schemas.android.com/apk/res/android"
@@ -922,4 +922,18 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎git commit -m "Initial AI PDF Super Toolkit code generator"
 ‎git push origin mainUltra-Magic Prompt:
 "Act as my ultimate PDF study assistant: summarize, extract key points, make structured notes with headings and tables, simplify text, create flashcards, and generate quiz questions with answers."
-‎sakti hai: “AI Research Mode Prompt” jo PDF ko analyze karke extra references, deeper explanations aur project ideas bhi generate karta hai—
+‎sakti hai: “AI Research Mode Prompt” jo PDF ko analyze karke extra references, deeper explanations aur project ideas bhi generate karta hai—You are my AI Research Assistant.
+
+I will upload a PDF. Analyze it deeply and create a research package.
+
+1. Give a clear summary of the document.
+2. Explain the main concepts in deeper detail.
+3. Identify important themes, arguments, or ideas.
+4. Suggest additional topics or references related to the content.
+5. Generate possible research questions based on the PDF.
+6. Suggest project or assignment ideas related to the topic.
+7. Identify key terms and explain them in simple language.
+8. Provide a short critical analysis (strengths, weaknesses, and important insights).
+
+Organize everything with headings, bullet points, and clear explanations.
+Make it suitable for students and research learning.
