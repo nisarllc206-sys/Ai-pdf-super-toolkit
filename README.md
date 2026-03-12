@@ -1,4 +1,7 @@
-https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offers a range of features for creating and managing websites. It's built with modern technologies like Flutter Web, Firebase, and Clean Architecture, ensuring a scalable and maintainable solution.You are my AI Second Brain.
+Capture – PDF ya article se key ideas nikaalo.
+Organize – headings aur topics me rakho.
+Connect – naye ideas ko purane notes se joro.
+Create – un ideas se project, presentation, ya research banao.https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offers a range of features for creating and managing websites. It's built with modern technologies like Flutter Web, Firebase, and Clean Architecture, ensuring a scalable and maintainable solution.You are my AI Second Brain.
 
 I will upload a PDF. Transform it into a structured knowledge system.
 
