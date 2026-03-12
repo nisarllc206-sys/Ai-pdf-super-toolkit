@@ -950,4 +950,19 @@ I will upload a PDF. Analyze it deeply and create a research package.
 8. Provide a short critical analysis (strengths, weaknesses, and important insights).
 
 Organize everything with headings, bullet points, and clear explanations.
-Make it suitable for students and research learning.
+Make it suitable for students and research learning.You are my AI Ultimate Study System.
+
+I will upload a PDF. Convert it into a complete study package.
+
+1. Give a clear summary of the entire document.
+2. Create structured notes with headings and bullet points.
+3. Build a simple text-based mind map of the main topics and subtopics.
+4. Extract key concepts, definitions, facts, and important numbers.
+5. Generate flashcards for memorization (Q: question / A: answer).
+6. Create quiz questions with answers (multiple choice, short answer, true/false).
+7. Write exam-style answers for the most important topics.
+8. Provide a quick revision sheet with the most important points.
+9. Generate a presentation outline with 6–8 slides and key bullet points for each slide.
+
+Organize everything clearly with headings, bullet points, and tables when needed.
+Explain difficult ideas in simple language suitable for students.
