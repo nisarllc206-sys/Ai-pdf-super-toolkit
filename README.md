@@ -892,3 +892,40 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎PNGapp
 ‎├─ ui
 ‎│
+‎import os import zipfile
+‎
+‎Paths
+‎
+‎project_root = '/mnt/data/ai_code_generator' zip_output = '/mnt/data/ai_code_generator_ready.zip'
+‎
+‎Create folder structure
+‎
+‎os.makedirs(os.path.join(project_root, 'prompts'), exist_ok=True) os.makedirs(os.path.join(project_root, 'output/android_project'), exist_ok=True) os.makedirs(os.path.join(project_root, 'output/backend'), exist_ok=True) os.makedirs(os.path.join(project_root, 'output/website'), exist_ok=True)
+‎
+‎Add master prompt file
+‎
+‎with open(os.path.join(project_root, 'prompts/master_prompt.txt'), 'w') as f: f.write('Paste your optimized AI PDF Super Toolkit prompt here')
+‎
+‎Add generator.js
+‎
+‎generator_js = ''' const fs = require('fs'); const OpenAI = require('openai'); const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+‎
+‎async function generateCode(prompt, outputPath) { const response = await openai.chat.completions.create({ model: "gpt-4", messages: [{ role: "user", content: prompt }], max_tokens: 4000 });
+‎
+‎fs.writeFileSync(outputPath, response.choices[0].message.content); console.log("Code generated at:", outputPath); }
+‎
+‎(async () => { const prompt = fs.readFileSync('./prompts/master_prompt.txt', 'utf-8'); await generateCode(prompt, './output/android_project/MainActivity.kt'); })(); ''' with open(os.path.join(project_root, 'generator.js'), 'w') as f: f.write(generator_js)
+‎
+‎Add package.json
+‎
+‎package_json = ''' { "name": "ai-code-generator", "version": "1.0.0", "main": "generator.js", "dependencies": { "openai": "^4.0.0" } } ''' with open(os.path.join(project_root, 'package.json'), 'w') as f: f.write(package_json)
+‎
+‎Zip the project
+‎
+‎with zipfile.ZipFile(zip_output, 'w', zipfile.ZIP_DEFLATED) as zipf: for root, dirs, files in os.walk(project_root): for file in files: zipf.write(os.path.join(root, file), os.path.relpath(os.path.join(root, file), project_root))
+‎
+‎print(f'Ready-to-run zip created at {zip_output}')npm install
+‎node generator.jsgit add .
+‎git commit -m "Initial AI PDF Super Toolkit code generator"
+‎git push origin main
+‎
