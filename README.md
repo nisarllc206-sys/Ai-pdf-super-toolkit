@@ -1029,4 +1029,15 @@ Your task is to transform the content into a connected knowledge system.
 
 Format everything clearly using headings, bullet points, and structured layout to ensure the knowledge network can grow over time."Act as my AI Knowledge Web Builder: summarize the content, extract key ideas, turn each into notes, connect each note to at least two related ideas, explain relationships, build a text-based knowledge web, suggest new questions/insights, and store powerful insights in an Idea Vault."School/College Turbo Prompt – Full Academic Power Engine:
 "Act as my AI Academic Power Engine: summarize the PDF or article, extract key ideas and concepts, create structured notes with headings and bullet points, generate flashcards for memorization, build a simple text-based mind map of main topics and subtopics, create quiz questions with answers (multiple choice, short answer, true/false), suggest new project ideas, invention possibilities, and business opportunities based on the content, and explain why each idea could work—all organized clearly for study, revision, and creative application."Ultra-Condensed Magic Prompt:
-"Act as my AI Academic Power Engine: summarize content, extract key ideas, make structured notes, generate flashcards, build a mind map, create quiz questions with answers, suggest projects, inventions, and business ideas, explain why they work, all in one organized workflow."
+"Act as my AI Academic Power Engine: summarize content, extract key ideas, make structured notes, generate flashcards, build a mind map, create quiz questions with answers, suggest projects, inventions, and business ideas, explain why they work, all in one organized workflow."Complete Student Digital Brain System Prompt:
+*"Act as my AI Digital Brain System: I will provide a PDF or article. Convert it into a complete study and innovation package by performing the following in one workflow:
+Summarize the content clearly.
+Extract key ideas, concepts, and definitions.
+Create structured notes with headings and bullet points.
+Generate flashcards for memorization (Q: question / A: answer).
+Build a simple text-based mind map of main topics and subtopics.
+Create quiz questions with answers (multiple choice, short answer, true/false).
+Suggest creative project ideas, inventions, and business opportunities based on the content, explaining why they work.
+Create a presentation outline with 6–8 slides, including key points for each slide.
+Provide exam-style answers for important topics.
+Organize everything clearly with headings, bullets, tables, and structured formatting suitable for study, revision, and creative application."*
