@@ -929,4 +929,4 @@ https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offer
 ‎git commit -m "Initial AI PDF Super Toolkit code generator"
 ‎git push origin mainUltra-Magic Prompt:
 "Act as my ultimate PDF study assistant: summarize, extract key points, make structured notes with headings and tables, simplify text, create flashcards, and generate quiz questions with answers."
-‎
+‎sakti hai: “AI Research Mode Prompt” jo PDF ko analyze karke extra references, deeper explanations aur project ideas bhi generate karta hai—
