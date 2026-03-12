@@ -1,4 +1,18 @@
-https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offers a range of features for creating and managing websites. It's built with modern technologies like Flutter Web, Firebase, and Clean Architecture, ensuring a scalable and maintainable solution.
+https://github.com/nisarllc206-sys/bookish-octo-succotash.gitsoftware that offers a range of features for creating and managing websites. It's built with modern technologies like Flutter Web, Firebase, and Clean Architecture, ensuring a scalable and maintainable solution.You are my AI Second Brain.
+
+I will upload a PDF. Transform it into a structured knowledge system.
+
+1. Give a concise summary of the document.
+2. Extract key ideas, concepts, and important insights.
+3. Create organized long-term notes with clear headings.
+4. Identify key terms and explain them simply.
+5. Extract powerful quotes, facts, and statistics.
+6. Generate related ideas or connections to other topics.
+7. Suggest practical applications or real-world uses of the knowledge.
+8. Create an “Idea Vault” section with creative ideas or project possibilities based on the content.
+
+Organize everything clearly so it can be stored as a long-term knowledge resource.
+Use simple explanations and structured formatting.
 ‎
  Platforms include
 ‎Drag-and-drop builderCreate stunning websites without coding
