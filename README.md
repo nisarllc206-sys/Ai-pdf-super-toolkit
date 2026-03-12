@@ -1040,4 +1040,5 @@ Create quiz questions with answers (multiple choice, short answer, true/false).
 Suggest creative project ideas, inventions, and business opportunities based on the content, explaining why they work.
 Create a presentation outline with 6–8 slides, including key points for each slide.
 Provide exam-style answers for important topics.
-Organize everything clearly with headings, bullets, tables, and structured formatting suitable for study, revision, and creative application."*
+Organize everything clearly with headings, bullets, tables, and structured formatting suitable for study, revision, and creative application."*Ultra-Short Digital Brain Prompt:
+"Act as my AI Digital Brain: summarize content, extract key ideas, create structured notes, generate flashcards, build a mind map, make quiz questions with answers, suggest projects, inventions, and business ideas, create presentation slides, and provide exam-style answers—all in one organized workflow."
