@@ -1,20 +1,63 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+ai-code-generator
+│
+├── generator.js       // main code generation script
+├── prompts
+│   └── master_prompt.txt  // وہ optimized prompt جو ہم نے بنایا
+├── output
+│   └── android_project/   // generated Android code
+│   └── backend/
+│   └── website/
+└── package.jsonai-pdf-super-generator
+│
+├── api
+│   └── generator.js            # Node.js API route to trigger AI code generation
+├── prompts
+│   └── master_prompt.txt       # Master prompt for AI code generation
+├── output
+│   ├── android_project/        # Generated Android code
+│   ├── backend/                 # Generated backend code
+│   └── website/                 # Generated website code
+├── package.json                 # Node.js dependencies
+├── vercel.json                  # Vercel configuration for serverless function
+├── README.md                    # Instructions & setup
+└── .gitignore                   # node_modules, output/{
+  "version": 2,
+  "builds": [
+    { "src": "api/generator.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/generate", "dest": "/api/generator.js" }
+  ]
+}{
+  "name": "ai-pdf-super-generator",
+  "version": "1.0.0",
+  "main": "api/generator.js",
+  "dependencies": {
+    "openai": "^4.0.0",
+    "fs-extra": "^11.1.0"
+  },
+  "scripts": {
+    "start": "node api/generator.js"
+  }
+}const fs = require('fs-extra');
+const OpenAI = require('openai');
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
----
+module.exports = async (req, res) => {
+  try {
+    const prompt = await fs.readFile('./prompts/master_prompt.txt', 'utf-8');
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-4',
+      messages: [{ role: 'user', content: prompt }],
+      max_tokens: 4000
+    });
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+    await fs.outputFile('./output/android_project/MainActivity.kt', completion.choices[0].message.content);
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+    res.status(200).json({ message: 'Code generated successfully!' });
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: 'Code generation failed.' });
+  }
+};
