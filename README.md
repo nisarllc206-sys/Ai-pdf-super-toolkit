@@ -1,4 +1,31 @@
-Setup Instructions
+ ai-code-generator
+│
+├── generator.js       // main code generation script
+├── prompts
+│   └── master_prompt.txt  // وہ optimized prompt جو ہم نے بنایا
+├── output
+│   └── android_project/   // generated Android code
+│   └── backend/
+│   └── website/
+└── package.json  const fs = require('fs');
+const OpenAI = require('openai');
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+async function generateCode(prompt, outputPath) {
+  const response = await openai.chat.completions.create({
+    model: "gpt-4",
+    messages: [{ role: "user", content: prompt }],
+    max_tokens: 4000
+  });
+
+  fs.writeFileSync(outputPath, response.choices[0].message.content);
+  console.log("Code generated at:", outputPath);
+}
+
+(async () => {
+  const prompt = fs.readFileSync('./prompts/master_prompt.txt', 'utf-8');
+  await generateCode(prompt, './output/android_project/MainActivity.kt');
+})(); Setup Instructions
 ‎Clone the repository
 ‎https://github.com/nisarllc206-sys/Ai-pdf-super-toolkit-.git
 ‎Open in Android Studio
